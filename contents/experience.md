@@ -1,57 +1,57 @@
-### **AI Agent Security Research Project**  
-**2025 – Present | Shandong University**
+### **基于智能体的多机器狗协同任务安全控制系统**  
+**2025 – 至今 | 山东大学**
 
-Participated in the design of a security control system for multi-robot dog collaboration based on AI agents, focusing on identity authentication, secure communication, trusted command execution, and safety guardrails for embodied AI systems.
+参与基于智能体实现的多机器狗协同任务安全控制系统项目，关注多智能体协同和具身智能场景下的身份认证、通信安全、指令可信和安全护栏机制。
 
-#### Key Contributions:
-- Explored security risks in multi-agent and embodied AI systems, including unauthorized access, command tampering, and insecure communication.
-- Studied identity authentication and trusted communication mechanisms for AI-agent-controlled robotic systems.
-- Participated in the design of safety guardrails to improve the reliability, controllability, and security of multi-robot collaboration.
-
----
-
-### **T-Owl: Threshold-based PAKE Protocol Design and Application**  
-**2025 – Present | Shandong University**
-
-Participated in the T-Owl project, focusing on password-authenticated key exchange, threshold cryptography, key agreement, and identity authentication. The project explores secure authentication and key exchange mechanisms for practical application scenarios.
-
-#### Key Contributions:
-- Studied PAKE protocols, threshold cryptography, identity authentication, and secure key exchange mechanisms.
-- Analyzed the design goals, threat models, and practical application scenarios of cryptographic protocols.
-- Explored how threshold mechanisms can improve system robustness and reduce single-point security risks.
+#### 主要贡献：
+- 分析多智能体与具身智能系统中的安全风险，包括非法接入、指令篡改、通信不可信等问题。
+- 学习并探索 AI Agent 控制机器人系统中的身份认证与可信通信机制。
+- 参与安全护栏机制设计，提升多机器狗协同任务中的可靠性、可控性和安全性。
 
 ---
 
-### **OpenHiTLS Cryptographic Suite Implementation**  
-**2025 | Huawei OpenHiTLS**
+### **T-Owl：基于门限密码的 PAKE 协议设计与应用**  
+**2025 – 至今 | 山东大学**
 
-Participated in the implementation of cryptographic suite-related functions in the OpenHiTLS library, focusing on cryptographic engineering, secure library implementation, and code-level security practices.
+参与 T-Owl 项目，围绕 PAKE 协议、门限密码、密钥协商和身份认证等内容开展学习与实践，探索面向实际应用场景的安全认证与密钥交换机制。
 
-#### Key Contributions:
-- Implemented cryptographic suite-related functions in the OpenHiTLS library.
-- Improved understanding of cryptographic library interfaces, secure implementation, and engineering practices.
-- Participated in code debugging and functionality verification during the development process.
-
----
-
-### **Personalized Local Differential Privacy Project**  
-**2024 – 2025 | Shandong University**
-
-Participated in a personalized local differential privacy project, focusing on privacy protection in data collection and analysis. This project strengthened my interest in privacy-preserving computing, data security, and trustworthy AI.
-
-#### Key Contributions:
-- Studied the basic principles of local differential privacy and personalized privacy protection.
-- Explored privacy-preserving mechanisms for data collection and analysis.
-- Participated in project discussion and presentation, and won first place at the college level in the related competition.
+#### 主要贡献：
+- 学习 PAKE 协议、门限密码、身份认证和安全密钥协商等相关内容。
+- 分析密码协议的设计目标、威胁模型和实际应用场景。
+- 探索门限机制在提升系统鲁棒性、降低单点安全风险方面的作用。
 
 ---
 
-### **Dream Pursuit: Neural Stimulation Device for Sleep-Disordered Breathing**  
-**2024 | Innovation and Entrepreneurship Project**
+### **OpenHiTLS 密码套件功能实现**  
+**2025 | 华为 OpenHiTLS**
 
-Participated in an interdisciplinary innovation project on neural stimulation devices for the treatment of sleep-disordered breathing. The project won the provincial gold award in the National College Students' Innovation and Entrepreneurship Competition.
+参与华为 OpenHiTLS 库中密码套件相关功能的实现，关注密码算法工程化实现、密码库接口设计和安全软件开发实践。
 
-#### Key Contributions:
-- Participated in project research, discussion, and presentation preparation.
-- Improved interdisciplinary understanding of medical engineering and intelligent devices.
-- Strengthened teamwork, project communication, and problem-solving skills.
+#### 主要贡献：
+- 完成 OpenHiTLS 库中密码套件相关功能实现。
+- 加深了对密码库接口设计、安全实现和工程实践的理解。
+- 参与代码调试与功能验证，提升了密码算法工程化实现能力。
+
+---
+
+### **个性化本地差分隐私项目**  
+**2024 – 2025 | 山东大学**
+
+参与个性化本地差分隐私项目，关注数据收集与分析过程中的隐私保护问题，进一步加深了对隐私计算、数据安全和可信人工智能方向的兴趣。
+
+#### 主要贡献：
+- 学习本地差分隐私和个性化隐私保护的基本原理。
+- 探索数据收集与分析过程中的隐私保护机制。
+- 参与项目讨论与展示，并在相关竞赛中获得院级第一名。
+
+---
+
+### **“梦寐以求”——神经刺激系列装置治疗呼吸睡眠障碍**  
+**2024 | 大学生创新创业项目**
+
+参与“梦寐以求——神经刺激系列装置治疗呼吸睡眠障碍”项目，关注神经刺激装置在呼吸睡眠障碍治疗中的应用。该项目获得全国大学生创新创业比赛省级金奖。
+
+#### 主要贡献：
+- 参与项目调研、方案讨论和展示材料准备。
+- 拓展了医学工程与智能设备方向的交叉学科视野。
+- 提升了团队协作、项目表达和实际问题分析能力。
