@@ -1,21 +1,57 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **AI Agent Security Research Project**  
+**2025 – Present | Shandong University**
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Participated in the design of a security control system for multi-robot dog collaboration based on AI agents, focusing on identity authentication, secure communication, trusted command execution, and safety guardrails for embodied AI systems.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### Key Contributions:
+- Explored security risks in multi-agent and embodied AI systems, including unauthorized access, command tampering, and insecure communication.
+- Studied identity authentication and trusted communication mechanisms for AI-agent-controlled robotic systems.
+- Participated in the design of safety guardrails to improve the reliability, controllability, and security of multi-robot collaboration.
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **T-Owl: Threshold-based PAKE Protocol Design and Application**  
+**2025 – Present | Shandong University**
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+Participated in the T-Owl project, focusing on password-authenticated key exchange, threshold cryptography, key agreement, and identity authentication. The project explores secure authentication and key exchange mechanisms for practical application scenarios.
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### Key Contributions:
+- Studied PAKE protocols, threshold cryptography, identity authentication, and secure key exchange mechanisms.
+- Analyzed the design goals, threat models, and practical application scenarios of cryptographic protocols.
+- Explored how threshold mechanisms can improve system robustness and reduce single-point security risks.
+
+---
+
+### **OpenHiTLS Cryptographic Suite Implementation**  
+**2025 | Huawei OpenHiTLS**
+
+Participated in the implementation of cryptographic suite-related functions in the OpenHiTLS library, focusing on cryptographic engineering, secure library implementation, and code-level security practices.
+
+#### Key Contributions:
+- Implemented cryptographic suite-related functions in the OpenHiTLS library.
+- Improved understanding of cryptographic library interfaces, secure implementation, and engineering practices.
+- Participated in code debugging and functionality verification during the development process.
+
+---
+
+### **Personalized Local Differential Privacy Project**  
+**2024 – 2025 | Shandong University**
+
+Participated in a personalized local differential privacy project, focusing on privacy protection in data collection and analysis. This project strengthened my interest in privacy-preserving computing, data security, and trustworthy AI.
+
+#### Key Contributions:
+- Studied the basic principles of local differential privacy and personalized privacy protection.
+- Explored privacy-preserving mechanisms for data collection and analysis.
+- Participated in project discussion and presentation, and won first place at the college level in the related competition.
+
+---
+
+### **Dream Pursuit: Neural Stimulation Device for Sleep-Disordered Breathing**  
+**2024 | Innovation and Entrepreneurship Project**
+
+Participated in an interdisciplinary innovation project on neural stimulation devices for the treatment of sleep-disordered breathing. The project won the provincial gold award in the National College Students' Innovation and Entrepreneurship Competition.
+
+#### Key Contributions:
+- Participated in project research, discussion, and presentation preparation.
+- Improved interdisciplinary understanding of medical engineering and intelligent devices.
+- Strengthened teamwork, project communication, and problem-solving skills.
